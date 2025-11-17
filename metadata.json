@@ -1,0 +1,5 @@
+
+{
+  "name": "MNIST Neural Network Playground",
+  "description": "An interactive web tool to draw a digit and visualize the activations of a simulated neural network in real-time, observing how different layers process the image to make a final prediction."
+}
